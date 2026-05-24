@@ -26,10 +26,6 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nazneen-1&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/nazneen741">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
