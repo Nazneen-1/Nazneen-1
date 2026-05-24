@@ -2,9 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there!+I'm+Nazneen.)](https://git.io/typing-svg)
 
 ---
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,nodejs,mongodb,mysql,tensorflow,git,github,vscode,postman&perline=7" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=header"/>
+
+---
+<img src="https://user-images.githubusercontent.com/74038190/212750905-5d1e6fa0-6b41-4d6c-9d62-9f0f2c3b6c8e.gif" width="100%">
 ---
 
 # 👋 About Me
