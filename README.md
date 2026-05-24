@@ -18,7 +18,6 @@
 </p>
 
 ## 🛠 Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mongodb,mysql,git,github,vscode,postman&perline=6" />
 </p>
