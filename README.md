@@ -7,19 +7,17 @@
 
 🎓 Final Year BTech CSE Student  
 💻 Aspiring AI/ML Engineer & Full Stack Developer  
-🚀 Passionate about building real-world applications  
-📚 Currently learning DSA, Machine Learning, and Backend Development  
-🎯 Goal: Become industry-ready and build impactful tech products
-
----
+🚀 Building real-world AI and web applications  
+📚 Currently focused on DSA, ML, and backend development
 
 # 🚀 Current Focus
 
-- 🤖 Building AI/ML Projects
-- 🌐 Developing Full Stack Applications
-- 📘 Practicing DSA Daily
-- 🧠 Exploring Deep Learning
-- ⚡ Improving Development Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/AI%2FML-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-Practice-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Learning-success?style=for-the-badge" />
+</p>
 
 ---
 
