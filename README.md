@@ -3,15 +3,6 @@
 
 ---
 
-# 👋 About Me
-
-🎓 Final Year BTech CSE Student  
-💻 Aspiring AI/ML Engineer & Full Stack Developer  
-🚀 Building real-world AI and web applications  
-📚 Currently focused on DSA, ML, and backend development
-
-# 🚀 Current Focus
-
 <p align="left">
   <img src="https://img.shields.io/badge/AI%2FML-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Full%20Stack-181717?style=for-the-badge" />
@@ -19,11 +10,8 @@
   <img src="https://img.shields.io/badge/Open%20Source-Learning-success?style=for-the-badge" />
 </p>
 
----
-# 🛠 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mongodb,mysql,git,github,vscode,postman&perline=7" />
 </p>
 ---
 
@@ -49,35 +37,20 @@ A task management web app with authentication and CRUD operations.
 
 ---
 
-# 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Nazneen-1&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazneen-1&layout=compact&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=Nazneen-1&theme=tokyonight" />
+
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="YOUR_LINKEDIN">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Nazneen-1">
     <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://skillicons.dev/icons?i=devto" />
   </a>
 
   <a href="mailto:YOUR_EMAIL">
@@ -85,10 +58,5 @@ A task management web app with authentication and CRUD operations.
   </a>
 </p>
 
----
 
-# 👀 Profile Visitors
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Nazneen-1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
