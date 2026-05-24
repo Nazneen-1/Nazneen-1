@@ -1,9 +1,7 @@
 <!-- Animated Typing Banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there!+I'm+Nazneen.)](https://git.io/typing-svg)
 
----
-
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/AI%2FML-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Full%20Stack-181717?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DSA-Practice-orange?style=for-the-badge" />
@@ -13,7 +11,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mongodb,mysql,git,github,vscode,postman&perline=7" />
 </p>
----
 
 # 📌 Featured Projects
 
@@ -25,7 +22,6 @@ Machine learning model that predicts diseases using medical symptoms and patient
 
 🔗 Project Link Here
 
----
 
 ## 🌐 Full Stack Task Manager
 
@@ -35,7 +31,6 @@ A task management web app with authentication and CRUD operations.
 
 🔗 Project Link Here
 
----
 
 <img src="https://github-readme-stats.vercel.app/api?username=Nazneen-1&show_icons=true&theme=tokyonight" />
 
