@@ -6,6 +6,7 @@
 
 ---
 <img src="https://user-images.githubusercontent.com/74038190/212750905-5d1e6fa0-6b41-4d6c-9d62-9f0f2c3b6c8e.gif" width="100%">
+
 ---
 
 # 👋 About Me
