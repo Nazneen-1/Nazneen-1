@@ -17,12 +17,9 @@
   <img src="https://img.shields.io/badge/Learning-2563eb?style=for-the-badge&logo=bookstack&logoColor=white" />
 </p>
 
-## 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mongodb,mysql,git,github,vscode,postman&perline=6" />
 </p>
-
-## 📊 GitHub Stats
 
 <p align="center">
 
@@ -35,8 +32,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nazneen-1&theme=tokyonight&hide_border=true" />
 </p>
-
-## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/nazneen741">
