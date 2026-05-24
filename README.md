@@ -20,43 +20,11 @@
 </p>
 
 ---
-
 # 🛠 Tech Stack
 
-## 💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,js,sql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman&perline=7" />
 </p>
-
-## 🌐 Web Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
-</p>
-
-## 🗄 Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-## 🤖 AI / ML
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
-
-- NumPy
-- Pandas
-- Scikit-learn
-
-## 🛠 Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
 ---
 
 # 📌 Featured Projects
