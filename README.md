@@ -1,7 +1,5 @@
 <!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Nazneen.;AI%2FML+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things+🚀" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there!+I'm+Nazneen." /> </p>
 
 <!-- Small Intro -->
 <p align="center">
@@ -19,15 +17,11 @@
   <img src="https://img.shields.io/badge/Learning-2563eb?style=for-the-badge&logo=bookstack&logoColor=white" />
 </p>
 
----
-
 ## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mongodb,mysql,git,github,vscode,postman&perline=6" />
 </p>
-
----
 
 ## 📊 GitHub Stats
 
@@ -42,8 +36,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nazneen-1&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -60,8 +52,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nazneen-1&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
