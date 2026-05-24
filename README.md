@@ -1,7 +1,5 @@
 <!-- Animated Typing Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Nazneen+👋;Aspiring+AI%2FML+Engineer;Full+Stack+Developer;Building+Real-World+Projects;Always+Learning+New+Things+🚀" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there!+I'm+Nazneen.)](https://git.io/typing-svg)
 
 ---
 
